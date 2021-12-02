@@ -1,6 +1,6 @@
 package Day01
 
-object SonarSweep extends App {
+object SonarSweep {
   def measureDepth(depth: Array[Int]): Int = {
     def calcDepthIncreases(depth: Array[Int], acc: Int, currentIndex: Int): Int = {
       if (currentIndex == depth.length) {
