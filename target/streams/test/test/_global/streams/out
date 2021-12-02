@@ -1,4 +1,5 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day01.SonarSweepTests, org.scalatest.tools.Framework$$anon$1@49105fc0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day01.SonarSweepTests, org.scalatest.tools.Framework$$anon$1@5911ef21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day02.DiveTests, org.scalatest.tools.Framework$$anon$1@5911ef21, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mSonarSweepTests:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth tests[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
@@ -10,10 +11,22 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 5[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  When given the task depth report[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1789[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 432 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDiveTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 150[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1648020[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position with aim tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 900[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1759818555[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 426 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day01.SonarSweepTests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day02.DiveTests[0m
