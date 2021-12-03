@@ -1,5 +1,6 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day01.SonarSweepTests, org.scalatest.tools.Framework$$anon$1@5911ef21, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day02.DiveTests, org.scalatest.tools.Framework$$anon$1@5911ef21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day03.BinaryDiagnosticTests, org.scalatest.tools.Framework$$anon$1@718d60e2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day01.SonarSweepTests, org.scalatest.tools.Framework$$anon$1@718d60e2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day02.DiveTests, org.scalatest.tools.Framework$$anon$1@718d60e2, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mSonarSweepTests:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth tests[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
@@ -22,11 +23,39 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 900[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1759818555[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 426 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBinaryDiagnosticTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculate power consumption tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Gamma rate of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 22[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Epsilon rate of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 9[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Power consumption of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 198[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Gamma rate of task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 3797[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Epsilon rate of task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 298[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Power consumption of task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1131506[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculate life support rating tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Oxygen generator rating of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 23[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  CO2 scrubber rating of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Life support rating of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 230[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Oxygen generator rating of task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 4089[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  CO2 scrubber rating of task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1923[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Life support rating of task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 7863147[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 458 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 20[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 20, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day01.SonarSweepTests[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day02.DiveTests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day03.BinaryDiagnosticTests[0m
