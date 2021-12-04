@@ -1,28 +1,7 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day03.BinaryDiagnosticTests, org.scalatest.tools.Framework$$anon$1@718d60e2, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day01.SonarSweepTests, org.scalatest.tools.Framework$$anon$1@718d60e2, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day02.DiveTests, org.scalatest.tools.Framework$$anon$1@718d60e2, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mSonarSweepTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 7[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task depth report[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1754[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth with 3-measurement sliding window tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 5[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task depth report[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1789[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mDiveTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 150[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1648020[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position with aim tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 900[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1759818555[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day01.SonarSweepTests, org.scalatest.tools.Framework$$anon$1@771fbedc, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day03.BinaryDiagnosticTests, org.scalatest.tools.Framework$$anon$1@771fbedc, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day02.DiveTests, org.scalatest.tools.Framework$$anon$1@771fbedc, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day04.GiantSquidTests, org.scalatest.tools.Framework$$anon$1@771fbedc, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mBinaryDiagnosticTests:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mCalculate power consumption tests[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Gamma rate of example data[0m[0m
@@ -50,12 +29,58 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1923[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Life support rating of task data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 7863147[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 458 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 20[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 20, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDiveTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 150[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1648020[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position with aim tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 900[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1759818555[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSonarSweepTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task depth report[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1754[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth with 3-measurement sliding window tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task depth report[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1789[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGiantSquidTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReading bingo data tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Draw order of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array of integers matching the example data string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Bingo boards of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array of bingo boards, each represented by a 2D array of integers matching the example data string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWinning board tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Winning board given the drawn numbers (7, 4, 9, 5, 11, 17, 23, 2, 0, 14, 21, 24)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Winning board given the drawn numbers (17, 0, 22, 13, 16, 11)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Winning board given the drawn numbers (15, 18, 0, 21, 11, 8)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBingo score tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Playing through with example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 4512[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Playing through with task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 46920[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBingo last board tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get last board score with example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1924[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get last board score with task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 12635[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 547 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 29[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 29, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day01.SonarSweepTests[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day02.DiveTests[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day03.BinaryDiagnosticTests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day04.GiantSquidTests[0m
