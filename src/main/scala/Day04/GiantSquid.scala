@@ -32,8 +32,6 @@ object GiantSquid {
     getBoardsRecursive(data)
   }
 
-  // TODO: Loop through drawOrder until all boards have won, then get the last one
-
   def getWinningBoards(boards: Array[Array[Array[Int]]], drawnNumbers: Array[Int], ignoreList: Array[Int] = Array(), index: Int = 0, acc: ArrayBuffer[Int] = ArrayBuffer()): Array[Int] = {
     if (index >= boards.length) {
       return acc.toArray
