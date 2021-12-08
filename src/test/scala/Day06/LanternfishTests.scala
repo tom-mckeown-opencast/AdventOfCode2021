@@ -6,16 +6,6 @@ import org.scalatest.funspec.AnyFunSpec
 class LanternfishTests extends AnyFunSpec {
   val exampleData = "3,4,3,1,2"
   val taskData = Utils.readFile("src/test/scala/Day06/input.txt")(0)
-  // Lanternfish represented by a number
-  // => That number = number of days until it reproduces
-  // => 6 is the start of the cycle
-  // => 0 is the end of the cycle
-  // => 8 is the start of the FIRST cycle
-  // Lanternfish reproduce at a set rate
-  // => Each fish has its own countdown
-  // => Standard rate = 1 / 7days
-  // => First cycle = 1 / 9days
-  //    => New Lanternfish have to wait an extra 2 days for their first cycle (1 / 9days ==> 1 / 7days)
 
   describe("Simulation tests") {
     describe("After 1 day of simulating the example data") {

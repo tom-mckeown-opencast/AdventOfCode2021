@@ -75,9 +75,4 @@ object Lanternfish {
     val weekCount = getWeekCount(data, week)
     getDayCount(weekCount, day, acc = weekCount.sum)
   }
-
-  // Get the week number (days / 7)
-  // Get the day number (days % 7)
-  // Calc 0-8s for that week
-  // => recursively go through weeks
 }
