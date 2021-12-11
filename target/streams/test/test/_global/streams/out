@@ -1,17 +1,43 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day02.DiveTests, org.scalatest.tools.Framework$$anon$1@5569eecb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day07.TreacheryOfWhalesTests, org.scalatest.tools.Framework$$anon$1@5569eecb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day04.GiantSquidTests, org.scalatest.tools.Framework$$anon$1@5569eecb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day06.LanternfishTests, org.scalatest.tools.Framework$$anon$1@5569eecb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day01.SonarSweepTests, org.scalatest.tools.Framework$$anon$1@5569eecb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day05.HydrothermalVentureTests, org.scalatest.tools.Framework$$anon$1@5569eecb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day08.SevenSegmentTests, org.scalatest.tools.Framework$$anon$1@5569eecb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day03.BinaryDiagnosticTests, org.scalatest.tools.Framework$$anon$1@5569eecb, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day05.HydrothermalVentureTests, org.scalatest.tools.Framework$$anon$1@14c1cc69, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day08.SevenSegmentTests, org.scalatest.tools.Framework$$anon$1@14c1cc69, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day02.DiveTests, org.scalatest.tools.Framework$$anon$1@14c1cc69, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day03.BinaryDiagnosticTests, org.scalatest.tools.Framework$$anon$1@14c1cc69, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day07.TreacheryOfWhalesTests, org.scalatest.tools.Framework$$anon$1@14c1cc69, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day04.GiantSquidTests, org.scalatest.tools.Framework$$anon$1@14c1cc69, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day09.SmokeBasinTests, org.scalatest.tools.Framework$$anon$1@14c1cc69, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day01.SonarSweepTests, org.scalatest.tools.Framework$$anon$1@14c1cc69, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Day06.LanternfishTests, org.scalatest.tools.Framework$$anon$1@14c1cc69, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSonarSweepTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task depth report[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1754[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth with 3-measurement sliding window tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task depth report[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1789[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDiveTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 150[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1648020[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position with aim tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 900[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1759818555[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTreacheryOfWhalesTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStandard fuel consumption calculation tests[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mBinaryDiagnosticTests:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mCalculate power consumption tests[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Gamma rate of example data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 22[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Epsilon rate of example data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 9[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Calculate the fuel required to move to position 2 given the example data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Power consumption of example data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 198[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Gamma rate of task data[0m[0m
@@ -26,6 +52,7 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  CO2 scrubber rating of example data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 10[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Life support rating of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 37[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 230[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Oxygen generator rating of task data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 4089[0m[0m
@@ -33,21 +60,6 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1923[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Life support rating of task data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 7863147[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mDiveTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 150[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1648020[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mCalculate position with aim tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example course[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 900[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task course[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1759818555[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mTreacheryOfWhalesTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mStandard fuel consumption calculation tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  Calculate the fuel required to move to position 2 given the example data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 37[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Find the most efficient position given the example data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 2[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Find the most efficient position given the task data[0m[0m
@@ -63,22 +75,6 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 484[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Find the cost to move to the most efficient position given the task data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 93214037[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mSonarSweepTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 7[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task depth report[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1754[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mMeasuring depth with 3-measurement sliding window tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the example depth report[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 5[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  When given the task depth report[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1789[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mSevenSegmentTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mDetermine pattern tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  Get the answers for the first line of example data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array containing (8,3,9,4)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  Get the answers for all of the example data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mGiantSquidTests:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mReading bingo data tests[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Draw order of example data[0m[0m
@@ -89,7 +85,6 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  Winning board given the drawn numbers (7, 4, 9, 5, 11, 17, 23, 2, 0, 14, 21, 24)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 2[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Winning board given the drawn numbers (17, 0, 22, 13, 16, 11)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array containing the 4-digit answers for all the lines in the array[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Winning board given the drawn numbers (15, 18, 0, 21, 11, 8)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1[0m[0m
@@ -103,38 +98,25 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1924[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Get last board score with task data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 12635[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  Get number of '1','4','7','8' digits in output from example data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should count 26 instances of '1','4','7','8'[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  Get number of '1','4','7','8' digits in output from task data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should count 26 instances of '1','4','7','8'[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  Get output from example data and get the sum[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 61229[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  Get output from task data and get the sum[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1020159[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mLanternfishTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mSimulation tests[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  After 1 day of simulating the example data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array (2,3,2,0,1)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  After 2 days of simulating the example data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array (1,2,1,6,0,8)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  After 3 days of simulating the example data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array (0,1,0,5,6,7,8)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  After 18 days of simulating the example data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 26[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  After 21 days of simulating the example data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 37[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  After 80 days of simulating the example data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 5934[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  After 80 days of simulating the task data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 363101[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  After 256 days of simulating the task data[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1644286074024[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSmokeBasinTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMap tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get the map from example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an 2D array of integers matching the example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLow point tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get all low points from example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should have 4 low points [(0,1), (0,9), (2,2), (4,6)] { format: (row,col) }[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get sum of risk levels for low points from example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 15[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get sum of risk levels for low points from task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 436[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasin tests[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mHydrothermalVentureTests:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mVent input tests[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Get axial vent line from the example string '0,9 -> 5,9'[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array of integer tuples { (0,9), (1,9), (2,9), (3,9), (4,9), (5,9) }[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Get axial vent line from the example string '9,7 -> 7,7'[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array of integer tuples { (9,7), (8,7), (7,7) } [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get basins for example data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Get axial vent line from the example string '0,0 -> 0,2'[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array of integer tuples { (0,0), (0,1), (0,2) } [0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Get axial vent line from the example string '4,7 -> 4,5'[0m[0m
@@ -156,6 +138,7 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 5[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Get the number of overlaps for task data (filtered for only axial lines)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 5632[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return array of basins[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Get the vent diagram values for example data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an accurate diagram[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Get the vent diagram for example data[0m[0m
@@ -164,16 +147,53 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 12[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  Get the number of overlaps for task data[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 22213[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 764 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 67[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 8, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 67, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get largest basins product for example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1134[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get largest basins product for task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1317792[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLanternfishTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSimulation tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  After 1 day of simulating the example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array (2,3,2,0,1)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  After 2 days of simulating the example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array (1,2,1,6,0,8)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  After 3 days of simulating the example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array (0,1,0,5,6,7,8)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  After 18 days of simulating the example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 26[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  After 21 days of simulating the example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 37[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  After 80 days of simulating the example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 5934[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  After 80 days of simulating the task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 363101[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  After 256 days of simulating the task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1644286074024[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSevenSegmentTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDetermine pattern tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get the answers for the first line of example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array containing (8,3,9,4)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get the answers for all of the example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return an array containing the 4-digit answers for all the lines in the array[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get number of '1','4','7','8' digits in output from example data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should count 26 instances of '1','4','7','8'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get number of '1','4','7','8' digits in output from task data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should count 26 instances of '1','4','7','8'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get output from example data and get the sum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 61229[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Get output from task data and get the sum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - Should return 1020159[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 833 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 74[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 9, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 74, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day01.SonarSweepTests[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day08.SevenSegmentTests[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day05.HydrothermalVentureTests[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day07.TreacheryOfWhalesTests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day09.SmokeBasinTests[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day06.LanternfishTests[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day03.BinaryDiagnosticTests[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Day02.DiveTests[0m
